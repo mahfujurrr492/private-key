@@ -1,0 +1,5 @@
+requests==2.31.0
+ecdsa==0.18.0
+base58==2.1.1
+bech32==1.2.0
+colorama==0.4.6
